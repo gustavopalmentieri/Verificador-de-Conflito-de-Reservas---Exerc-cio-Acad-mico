@@ -53,12 +53,3 @@ Este projeto foi criado como parte dos estudos introdutórios à linguagem C e t
 * Não há validação para casos como "hora inicial maior que a final" ou entradas inválidas.
 
 ---
-
-## 🚧 | Possíveis melhorias futuras
-
-* Validação dos valores digitados
-* Suporte a mais reservas com uso de vetores ou estruturas
-* Interface de menu para facilitar a interação
-* Armazenamento e visualização das reservas já realizadas
-
----
